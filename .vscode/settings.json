@@ -1,0 +1,14 @@
+{
+  "files.associations": {
+    "vector": "cpp",
+    "utility": "cpp",
+    "queue": "cpp",
+    "xlocale": "cpp",
+    "span": "cpp",
+    "unordered_map": "cpp",
+    "xutility": "cpp",
+    "algorithm": "cpp",
+    "xhash": "cpp",
+    "limits": "cpp"
+  }
+}
